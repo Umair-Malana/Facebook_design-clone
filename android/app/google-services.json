@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675182934460",
+    "project_id": "codesthinker-78dba",
+    "storage_bucket": "codesthinker-78dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675182934460:android:5d7c79703d32bde72a53b9",
+        "android_client_info": {
+          "package_name": "com.example.fbs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIpeK6DP8-Oe1Lmf75TfKUsqD8KwRtOxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
